@@ -1,5 +1,5 @@
 {
-  "current_game_fen": "8/p3n3/3k4/2p2p1p/1P3P2/2PK3P/4N3/8 w - - 0 49",
+  "current_game_fen": "8/p1k1n3/8/1Pp2p1p/5P2/2PK3P/4N3/8 w - - 1 50",
   "restart_game_fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
   "stats": {
     "current_game": "stillon",
@@ -10,6 +10,18 @@
     }
   },
   "moves_history": [
+    {
+      "datetime": "2026-04-10 21:43:39",
+      "human": {
+        "username": "tadanobutubutu",
+        "from": "b4",
+        "to": "b5"
+      },
+      "stockfish": {
+        "from": "d6",
+        "to": "c7"
+      }
+    },
     {
       "datetime": "2026-04-10 21:42:29",
       "human": {
@@ -56,18 +68,6 @@
       "stockfish": {
         "from": "d6",
         "to": "c7"
-      }
-    },
-    {
-      "datetime": "2026-04-10 21:37:06",
-      "human": {
-        "username": "tadanobutubutu",
-        "from": "b3",
-        "to": "c1"
-      },
-      "stockfish": {
-        "from": "h4",
-        "to": "g6"
       }
     }
   ]
